@@ -12,7 +12,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.navigation.compose.rememberNavController
-import com.example.yuplayer.data.ThemeManager
+import com.example.yuplayer.ui.theme.ThemeManager
 import com.example.yuplayer.navigation.NavGraph
 import com.example.yuplayer.navigation.Screen
 import com.example.yuplayer.ui.theme.YuPlayerTheme
